@@ -1,0 +1,55 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+header{
+  padding-top: 10px;
+  background-color: #ff8523;
+  height: inherit;
+
+}
+nav a{
+  padding: 10px;
+  border-style: solid; border-radius:
+  border-width: thin;
+  color: white;
+}
+
+body{
+  font-family: Helvetica, arial, sans-serif;
+}
+section h2{
+    color: #1fabe5;
+}
+section h3{
+  color: #1fabe5;
+}
+ul{
+  font-weight: bold;
+}
+
+
+td{
+  border-style: solid;
+  border-width: thin;
+}
+
+form{
+  background-color: #eee;
+}
+
+#submit_button{
+background-color: #1fabe5;
+color: white;
+border-radius: 
+}
